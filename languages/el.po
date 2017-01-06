@@ -1,0 +1,850 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Unite Theme\n"
+"POT-Creation-Date: 2017-01-02 16:52+0200\n"
+"PO-Revision-Date: 2017-01-06 09:15+0200\n"
+"Last-Translator: \n"
+"Language-Team: colorlib <info@colorlib.com>\n"
+"Language: el_GR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr__;_n_noop;_nx:4c,1,2;_n:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Η σελίδα δεν βρέθηκε!"
+
+#: ../404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Φαίνεται ότι δεν υπάρχει τίποτα εδώ. Δοκιμάστε να βρείτε αυτό που ψάχνετε "
+"χρησιμοποιόντας το παρακάτω πεδίο αναζήτησης."
+
+#: ../404.php:27
+msgid "Most Used Categories"
+msgstr "Οι πιο δημοφιλείς κατηγορίες"
+
+#: ../404.php:44
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Προσπαθήστε να αναζητήσετε στα μηνιαία αρχεία. %1$s"
+
+#: ../comments.php:28
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Μία σκέψη για &ldquo;%s&rdquo;"
+msgstr[1] "%1$s σκέψεις για &ldquo;%2$s&rdquo;"
+
+#: ../comments.php:35 ../comments.php:59
+msgid "Comment navigation"
+msgstr "Πλοήγηση στα σχόλια"
+
+#: ../comments.php:36 ../comments.php:60
+msgid "&larr; Older Comments"
+msgstr "&larr; Παλαιότερα σχόλια"
+
+#: ../comments.php:37 ../comments.php:61
+msgid "Newer Comments &rarr;"
+msgstr "Νεότερα σχόλια &rarr;"
+
+#: ../comments.php:71
+msgid "Comments are closed."
+msgstr "Εμφάνιση μηνύματος \"Τα σχόλια είναι απενεργοποιημένα\""
+
+#: ../content-none.php:13
+msgid "Nothing Found"
+msgstr "Δεν βρέθηκε τίποτα"
+
+#: ../content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Έτοιμοι να δημοσιεύσετε το πρώτο σας άρθρο; <a href=\"%1$s\">Ξεκινήστε εδώ</"
+"a>."
+
+#: ../content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Λυπούμαστε, δεν υπάρχουν αποτελέσματα με τις λέξεις κλειδιά που θέσατε. "
+"Παρακαλούμε δοκιμάστε ξανά με διαφορετικές λέξεις-κλειδιά."
+
+#: ../content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Φαίνεται ότι δεν βρήκαμε αυτό που ζητούσατε. Αν θέλετε, δοκιμάστε την "
+"αναζήτηση"
+
+#: ../content-page.php:18 ../content-single.php:27 ../content.php:37
+#: ../front-page.php:19 ../image.php:82
+msgid "Pages:"
+msgstr "Σελίδες:"
+
+#: ../content-page.php:23 ../content-single.php:67 ../content.php:71
+#: ../front-page.php:24 ../inc/template-tags.php:81
+#: ../inc/template-tags.php:100
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: ../content-single.php:36 ../content-single.php:39 ../content.php:48
+#: ../content.php:58
+msgid ", "
+msgstr ","
+
+#: ../content.php:24
+msgid "Continue reading"
+msgstr "Διαβαστε Περισσοτερα"
+
+#: ../content.php:30
+msgid "Continue reading <i class=\"fa fa-chevron-right\"></i>"
+msgstr "Συνέχισε να διαβάζεις <i class=\"fa fa-chevron-right\"></i>"
+
+#: ../content.php:52 ../content.php:62
+#, php-format
+msgid " %1$s"
+msgstr "%1$s"
+
+#: ../content.php:68
+msgid "Leave a comment"
+msgstr "Κάντε ένα σχόλιο"
+
+#: ../content.php:68
+msgid "1 Comment"
+msgstr "1 σχόλιο"
+
+#: ../content.php:68
+msgid "% Comments"
+msgstr "% Σχόλια"
+
+#: ../functions.php:60
+msgid "Primary Menu"
+msgstr "Βασικό Μενού"
+
+#: ../functions.php:61 ../inc/extras.php:156
+msgid "Footer Links"
+msgstr "Μενού υποσέλιδο"
+
+#: ../functions.php:95
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: ../functions.php:233
+msgid "Display full content for each post"
+msgstr "Εμφανιστεί το πλήρες περιεχόμενο για κάθε θέση"
+
+#: ../functions.php:233
+msgid "Display excerpt for each post"
+msgstr "Εμφάνιση απόσπασμα για κάθε θέση"
+
+#: ../image.php:25
+msgid "<i class=\"fa fa-chevron-left\"></i> Previous"
+msgstr "<i class=\"fa fa-chevron-left\"></i> Προηγούμενος"
+
+#: ../image.php:26
+msgid "Next <i class=\"fa fa-chevron-right\"></i>"
+msgstr "Επόμενος <i class=\"fa fa-chevron-right\"></i>"
+
+#: ../inc/class-tgm-plugin-activation.php:333 ../inc/extras.php:353
+msgid "Install Required Plugins"
+msgstr "Εγκαταστείστε τα απαιτούμενα πρόσθετα"
+
+#: ../inc/class-tgm-plugin-activation.php:334 ../inc/extras.php:354
+msgid "Install Plugins"
+msgstr "Εγκαταστείστε τα πρόσθετα"
+
+#: ../inc/class-tgm-plugin-activation.php:335 ../inc/extras.php:355
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Εγκατάσταση πρόσθετου: %s"
+
+#: ../inc/class-tgm-plugin-activation.php:336 ../inc/extras.php:356
+msgid "Something went wrong with the plugin API."
+msgstr "Κάτι πήγε στραβά με το πρόσθετο API."
+
+#: ../inc/class-tgm-plugin-activation.php:338 ../inc/extras.php:357
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr "Το θέμα αυτό απαιτεί το ακόλουθο πρόσθετο:%1$s."
+
+#: ../inc/class-tgm-plugin-activation.php:343 ../inc/extras.php:358
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr "Το θέμα αυτό συνιστά το ακόλουθο πρόσθετο:%1$s."
+
+#: ../inc/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgstr ""
+"Συγγνώμη, αλλά δεν έχετε τα κατάλληλα δικαιώματα για να εγκαταστήσετε το%1$s "
+"πρόσθετο."
+
+#: ../inc/class-tgm-plugin-activation.php:353 ../inc/extras.php:363
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+"Το ακόλουθο πρόσθετο πρέπει να ενημερωθεί με στην τελευταία έκδοση του για "
+"να εξασφαλιστεί η μέγιστη δυνατή συμβατότητα με αυτό το θέμα: %1$s."
+
+#: ../inc/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr "Υπάρχει μια διαθέσιμη ενημέρωση για: %1$s."
+
+#: ../inc/class-tgm-plugin-activation.php:363
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgstr ""
+"Συγγνώμη, αλλά δεν έχετε τα κατάλληλα δικαιώματα για να ενημερώσετε το %1$s "
+"πρόσθετο."
+
+#: ../inc/class-tgm-plugin-activation.php:368 ../inc/extras.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr "Τα παρακάτω υποχρεωτικό πρόσθετο είναι αυτή την στιγμή ανενεργό:%1$s."
+
+#: ../inc/class-tgm-plugin-activation.php:373 ../inc/extras.php:361
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr "Το παρακάτω συνιστώμενο πρόσθετο είναι αυτή τη στιγμή ανενεργό:%1$s."
+
+#: ../inc/class-tgm-plugin-activation.php:378
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgstr ""
+"Συγγνώμη, αλλά δεν έχετε τα κατάλληλα δικαιώματα για να ενεργοποιήσετε το "
+"%1$s πρόσθετο."
+
+#: ../inc/class-tgm-plugin-activation.php:383 ../inc/extras.php:365
+msgid "Begin installing plugin"
+msgstr "Ξεκινήστε την εγκατάσταση του πρόσθετου"
+
+#: ../inc/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgstr "Ξεκινήστε την ενημέρωση του πρόσθετου"
+
+#: ../inc/class-tgm-plugin-activation.php:393 ../inc/extras.php:366
+msgid "Begin activating plugin"
+msgstr "Ξεκινήστε την ενεργοποίηση του πρόσθετου"
+
+#: ../inc/class-tgm-plugin-activation.php:397 ../inc/extras.php:367
+msgid "Return to Required Plugins Installer"
+msgstr "Επιστροφή στον εγκαταστάτη των απαιτούμενων πρόσθετων"
+
+#: ../inc/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr "Επιστροφή στον Πίνακα Ελέγχου"
+
+#: ../inc/class-tgm-plugin-activation.php:399
+#: ../inc/class-tgm-plugin-activation.php:3025 ../inc/extras.php:368
+msgid "Plugin activated successfully."
+msgstr "Το πρόσθετο ενεργοποιήθηκε επιτυχώς."
+
+#: ../inc/class-tgm-plugin-activation.php:400
+#: ../inc/class-tgm-plugin-activation.php:2828
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Το ακόλουθο πρόσθετο ενεργοποιήθηκε με επιτυχία:"
+msgstr[1] "Τα ακόλουθα πρόσθετα ενεργοποιήθηκαν με επιτυχία:"
+
+#: ../inc/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+"Δεν έχει γίνει καμία ενέργεια. Το πρόσθετο %1$s ήταν ήδη ενεργοποιημένο."
+
+#: ../inc/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Το πρόσθετο δεν ενεργοποιήθηκε. Χρειάζεται νεότερη έκδοση του %s γι’ αυτό το "
+"θέμα. Παρακαλούμε ενημερώστε το πρόσθετο."
+
+#: ../inc/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Όλα τα πρόσθετα εγκατασταθήκαν και ενεργοποιήθηκαν επιτυχώς. %s"
+
+#: ../inc/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr "Απόκρυψη ειδοποίησης"
+
+#: ../inc/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+"Παρακαλούμε επικοινωνήστε με το διαχειριστή αυτού του site για βοήθεια."
+
+#: ../inc/class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+"Αυτό το πρόσθετο θα πρέπει να ενημερωθεί για να είναι συμβατό με το θέμα σας."
+
+#: ../inc/class-tgm-plugin-activation.php:2163
+msgid "Required"
+msgstr "Απαιτείται"
+
+#: ../inc/class-tgm-plugin-activation.php:2166
+msgid "Recommended"
+msgstr "Συνίσταται"
+
+#: ../inc/class-tgm-plugin-activation.php:2182
+msgid "WordPress Repository"
+msgstr "Αποθετήριο WordPress"
+
+#: ../inc/class-tgm-plugin-activation.php:2185
+msgid "External Source"
+msgstr "Εξωτερική πηγή"
+
+#: ../inc/class-tgm-plugin-activation.php:2188
+msgid "Pre-Packaged"
+msgstr "Προ-εγκατεστημένο"
+
+#: ../inc/class-tgm-plugin-activation.php:2205
+msgid "Not Installed"
+msgstr "Δεν εγκαταστάθηκε"
+
+#: ../inc/class-tgm-plugin-activation.php:2209
+msgid "Installed But Not Activated"
+msgstr "Εγκατεστημένο αλλά απενεργοποιημένο"
+
+#: ../inc/class-tgm-plugin-activation.php:2211
+msgid "Active"
+msgstr "Ενεργό"
+
+#: ../inc/class-tgm-plugin-activation.php:2217
+msgid "Required Update not Available"
+msgstr "Η απαιτούμενη ενημέρωση δεν είναι διαθέσιμη"
+
+#: ../inc/class-tgm-plugin-activation.php:2220
+msgid "Requires Update"
+msgstr "Απαιτείται αναβάθμιση"
+
+#: ../inc/class-tgm-plugin-activation.php:2223
+msgid "Update recommended"
+msgstr "Συνίσταται αναβάθμιση"
+
+#: ../inc/class-tgm-plugin-activation.php:2276
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Όλα <span class=\"count\">(%s)</span>"
+msgstr[1] "Όλα <span class=\"count\">(%s)</span>"
+
+#: ../inc/class-tgm-plugin-activation.php:2279
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Για να εγκαταστήσετε <span class=\"count\">(%s)</span>"
+msgstr[1] "Για να εγκαταστήσετε <span class=\"count\">(%s)</span>"
+
+#: ../inc/class-tgm-plugin-activation.php:2282
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Ενημερωμένη έκδοση διαθέσιμη <span class=\"count\">(%s)</span>"
+msgstr[1] "Ενημερωμένες εκδόσεις διαθέσιμες <span class=\"count\">(%s)</span>"
+
+#: ../inc/class-tgm-plugin-activation.php:2285
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Για την ενεργοποίηση <span class=\"count\">(%s)</span>"
+msgstr[1] "Για την ενεργοποίηση <span class=\"count\">(%s)</span>"
+
+#: ../inc/class-tgm-plugin-activation.php:2375
+msgid "Installed version:"
+msgstr "Εγκατεστημένη έκδοση:"
+
+#: ../inc/class-tgm-plugin-activation.php:2383
+msgid "Minimum required version:"
+msgstr "Ελάχιστη απαιτούμενη έκδοση:"
+
+#: ../inc/class-tgm-plugin-activation.php:2395
+msgid "Available version:"
+msgstr "Διαθέσιμη έκδοση:"
+
+#: ../inc/class-tgm-plugin-activation.php:2418
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+"Δεν υπάρχουν πρόσθετα για εγκατάσταση, ενημέρωση ή ενεργοποίηση. <a "
+"href=“%1$s”>Επιστροφή στον πίνακα ελέγχου</a>"
+
+#: ../inc/class-tgm-plugin-activation.php:2432
+msgid "Plugin"
+msgstr "Πρόσθετο"
+
+#: ../inc/class-tgm-plugin-activation.php:2433
+msgid "Source"
+msgstr "Πηγή"
+
+#: ../inc/class-tgm-plugin-activation.php:2434
+msgid "Type"
+msgstr "Τύπος"
+
+#: ../inc/class-tgm-plugin-activation.php:2438
+msgid "Version"
+msgstr "Έκδοση"
+
+#: ../inc/class-tgm-plugin-activation.php:2439
+msgid "Status"
+msgstr "Κατάσταση"
+
+#: ../inc/class-tgm-plugin-activation.php:2599
+msgid "Install"
+msgstr "Εγκατάσταση"
+
+#: ../inc/class-tgm-plugin-activation.php:2605
+msgid "Update"
+msgstr "Αναβάθμιση"
+
+#: ../inc/class-tgm-plugin-activation.php:2608
+msgid "Activate"
+msgstr "Ενεργοποίηση"
+
+#: ../inc/class-tgm-plugin-activation.php:2639
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Δεν επιλέχθηκαν πρόσθετα προς εγκατάσταση. Καμία ενέργεια δεν έγινε."
+
+#: ../inc/class-tgm-plugin-activation.php:2641
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Δεν επιλέχθηκαν πρόσθετα προς ενημέρωση. Καμία ενέργεια δεν έγινε."
+
+#: ../inc/class-tgm-plugin-activation.php:2677
+msgid "No plugins are available to be installed at this time."
+msgstr "Δεν υπάρχουν διαθέσιμα πρόσθετα για να εγκατασταθούν αυτή τη στιγμή."
+
+#: ../inc/class-tgm-plugin-activation.php:2679
+msgid "No plugins are available to be updated at this time."
+msgstr "Δεν υπάρχουν διαθέσιμα πρόσθετα για ενημέρωση αυτή τη στιγμή."
+
+#: ../inc/class-tgm-plugin-activation.php:3024
+msgid "Plugin activation failed."
+msgstr "Η ενεργοποίηση του πρόσθετου απέτυχε."
+
+#: ../inc/class-tgm-plugin-activation.php:3358
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Αναβάθμιση πρόσθετου %1$s (%2$d/%3$d) "
+
+#: ../inc/class-tgm-plugin-activation.php:3360
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Κάποιο σφάλμα παρουσιάστηκε κατα την εγκατάσταση %1$s: <strong>%2$s</strong>."
+
+#: ../inc/class-tgm-plugin-activation.php:3361
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Η εγκατάσταση του %1$s απέτυχε."
+
+#: ../inc/class-tgm-plugin-activation.php:3365
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Η διαδικασία εγκατάστασης και ενεργοποίησης αρχίζει. Αυτή η διαδικασία "
+"μπορεί να διαρκέσει αρκετά σε ορισμένους servers, γι’αυτό παρακαλώ να είστε "
+"υπομονετικοί."
+
+#: ../inc/class-tgm-plugin-activation.php:3366
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "Το %1$s εγκαταστάθηκε και ενεργοποιήθηκε με επιτυχία."
+
+#: ../inc/class-tgm-plugin-activation.php:3367
+msgid "All installations and activations have been completed."
+msgstr "Όλες οι εγκαταστάσεις και όλες οι ενεργοποιήσεις έχουν ολοκληρωθεί."
+
+#: ../inc/class-tgm-plugin-activation.php:3368
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Εγκατάσταση και ενεργοποίηση πρόσθετου %1$s (%2$d/%3$d)"
+
+#: ../inc/class-tgm-plugin-activation.php:3371
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Η διαδικασία εγκατάστασης έχει αρχίσει. Αυτή η διαδικασία μπορεί να "
+"διαρκέσει αρκετά σε ορισμένους servers, γι’αυτό παρακαλώ να είστε "
+"υπομονετικοί."
+
+#: ../inc/class-tgm-plugin-activation.php:3373
+msgid "All installations have been completed."
+msgstr "Όλες οι εγκαταστάσεις έχουν ολοκληρωθεί."
+
+#: ../inc/class-tgm-plugin-activation.php:3374
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Εγκατάσταση πρόσθετου %1$s (%2$d/%3$d)"
+
+#: ../inc/customizer.php:37
+msgid "Unite Options"
+msgstr "Επιλογές θέματος Unite"
+
+#: ../inc/customizer.php:38
+msgid "Panel to update unite theme options"
+msgstr "Πίνακας ενημερώσεων επιλογών του θέματος unite"
+
+#: ../inc/customizer.php:43
+msgid "Layout options"
+msgstr "Επιλογές Διάταξης"
+
+#: ../inc/customizer.php:55
+msgid "Blog Layout"
+msgstr "Διάταξη ιστολογίου"
+
+#: ../inc/customizer.php:68
+msgid "Website Layout Options"
+msgstr "Επιλογές διάταξης ιστοσελίδας"
+
+#: ../inc/customizer.php:71
+msgid "Choose between different layout options to be used as default"
+msgstr ""
+"Επιλέξτε ανάμεσα σε διαφορετικές επιλογές διάταξης για να χρησιμοποιηθεί ως "
+"προεπιλογή"
+
+#: ../inc/customizer.php:81
+msgid "Element Color"
+msgstr "Χρώμα στοιχείου"
+
+#: ../inc/customizer.php:82 ../inc/customizer.php:94 ../inc/customizer.php:172
+#: ../inc/customizer.php:182 ../inc/customizer.php:193
+#: ../inc/customizer.php:210
+msgid "Default used if no color is selected"
+msgstr "Χρήση προεπιλεγμένου αν δεν έχει επιλεγεί χρώμα"
+
+#: ../inc/customizer.php:93
+msgid "Element color on hover"
+msgstr "Χρώμα στοιχείου στο άγγιγμα"
+
+#: ../inc/customizer.php:101
+msgid "Typography"
+msgstr "Γραμματοσειρές"
+
+#: ../inc/customizer.php:120
+msgid "Main Body Text"
+msgstr "Κείμενο κυρίως σώματος"
+
+#: ../inc/customizer.php:121
+msgid "Used in p tags"
+msgstr "Χρησιμοποιούνται σε ετικέτες p"
+
+#: ../inc/customizer.php:161
+msgid "Heading Color"
+msgstr "Χρώμα κεφαλίδας"
+
+#: ../inc/customizer.php:162
+msgid "Color for all headings (h1-h6)"
+msgstr "Χρώμα για όλες τις επικεφαλίδες (h1-h6)"
+
+#: ../inc/customizer.php:171
+msgid "Link Color"
+msgstr "Χρώμα συνδέσμου"
+
+#: ../inc/customizer.php:181
+msgid "Link:hover Color"
+msgstr "Χρώμα συνδέσμου στο άγγιγμα"
+
+#: ../inc/customizer.php:192
+msgid "Social icon color"
+msgstr "Χρώμα εικονιδίου κοινωνικής δικτύωσης"
+
+#: ../inc/customizer.php:199
+msgid "Header"
+msgstr "Κεφαλίδα"
+
+#: ../inc/customizer.php:209
+msgid "Top nav background color"
+msgstr "Χρώμα φόντου της επάνω γραμμής πλοήγησης"
+
+#: ../inc/customizer.php:219
+msgid "Top nav item color"
+msgstr "χρώμα στοιχείου στην επάνω γραμμή πλοήγησης"
+
+#: ../inc/customizer.php:220
+msgid "Link color"
+msgstr "Χρώμα συνδέσμου"
+
+#: ../inc/customizer.php:230
+msgid "Top nav dropdown background color"
+msgstr "Χρώμα φόντου στα αναπτυσσόμενα μενού της επάνω γραμμής πλοήγησης"
+
+#: ../inc/customizer.php:231
+msgid "Background of dropdown item hover color"
+msgstr "Χρώμα φόντου στο άγγιγμα στοιχείων του αναπτυσσόμενου μενού"
+
+#: ../inc/customizer.php:241
+msgid "Top nav dropdown item color"
+msgstr "Χρώμα στοιχείων αναπτυσσόμενου μενού πλοήγησης"
+
+#: ../inc/customizer.php:242
+msgid "Dropdown item color"
+msgstr "Χρώμα αναπτυσσόμενου μενού"
+
+#: ../inc/customizer.php:248
+msgid "Footer"
+msgstr "Υποσέλιδο"
+
+#: ../inc/customizer.php:259
+msgid "Footer background color"
+msgstr "Χρώμα φόντου του υποσέλιδου"
+
+#: ../inc/customizer.php:269
+msgid "Footer text color"
+msgstr "Χρώμα κειμένου υποσέλιδου"
+
+#: ../inc/customizer.php:279
+msgid "Footer link color"
+msgstr "Χρώμα συνδέσμων υποσέλιδου"
+
+#: ../inc/customizer.php:289
+msgid "Footer information"
+msgstr "Πληροφορίες υποσέλιδου"
+
+#: ../inc/customizer.php:290
+msgid "Copyright text in footer"
+msgstr "Κείμενο πνευματικής ιδιοκτησίας στο υποσέλιδο"
+
+#: ../inc/customizer.php:297
+msgid "Content Options"
+msgstr "Επιλογές Περιεχομένου"
+
+#: ../inc/customizer.php:307
+msgid "Display Featured Image on Single Post"
+msgstr "Εμφάνιση προτεινόμενης εικόνας στην απλή δημοσίευση"
+
+#: ../inc/customizer.php:314
+msgid "Other"
+msgstr "Άλλο"
+
+#: ../inc/customizer.php:324
+msgid "Custom CSS"
+msgstr "Προσαρμοσμένος κώδικας CSS"
+
+#: ../inc/customizer.php:325
+msgid "Additional CSS"
+msgstr "Επιπρόσθετος κώδικας CSS"
+
+#: ../inc/customizer.php:332 ../inc/extras.php:290
+msgid "Support and Documentation"
+msgstr "Υποστήριξη και Τεκμηρίωση"
+
+#: ../inc/customizer.php:514 ../inc/extras.php:296
+msgid "Unite Documentation"
+msgstr "Τεκμηρίωση θέματος Unite "
+
+#: ../inc/customizer.php:515 ../inc/extras.php:297
+msgid ""
+"The best way to contact us with <b>support questions</b> and <b>bug reports</"
+"b> is via"
+msgstr ""
+"Ο καλύτερος τρόπος για να επικοινωνήσετε μαζί μας με <b>ερωτήσεις "
+"υποστήριξης</b> και <b>αναφορές σφαλμάτων</b> είναι μέσω"
+
+#: ../inc/customizer.php:515 ../inc/extras.php:297
+msgid "Colorlib support forum"
+msgstr "Κοινότητα υποστήριξης Colorlib"
+
+#: ../inc/customizer.php:516 ../inc/extras.php:298
+msgid "If you like this theme, I'd appreciate any of the following:"
+msgstr "Αν σας αρέσει αυτό το θέμα, θα το εκτιμούσα εάν:"
+
+#: ../inc/customizer.php:518 ../inc/extras.php:300
+msgid "Rate this Theme"
+msgstr "Βαθμολογήστε αυτό το θέμα"
+
+#: ../inc/customizer.php:519 ../inc/extras.php:301
+msgid "Like on Facebook"
+msgstr "Κάντε like στην σελίδα μας στο Facebook"
+
+#: ../inc/customizer.php:520 ../inc/extras.php:302
+msgid "Follow on Twitter"
+msgstr "Ακολουθήστε μας στο Twitter"
+
+#: ../inc/extras.php:91
+msgid ""
+"<p>This post is password protected. To view it please enter your password "
+"below:</p>"
+msgstr ""
+"<p> Αυτή η δημοσίευση είναι προστατευμένη με κωδικό πρόσβασης. Για να την "
+"δείτε παρακαλώ εισάγετε τον κωδικό παρακάτω: </p>"
+
+#: ../inc/extras.php:92
+msgid "Password:"
+msgstr "Συνθηματικό"
+
+#: ../inc/extras.php:95
+msgid "Submit"
+msgstr "Υποβολή"
+
+#: ../inc/extras.php:359
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgstr ""
+"Συγγνώμη, αλλά δεν έχετε τα κατάλληλα δικαιώματα για την εγκατάσταση του%s "
+"πρόσθετου. Επικοινωνήστε με το διαχειριστή αυτού του site για βοήθεια ώστε "
+"να εγκαταστήσετε το πρόσθετο."
+
+#: ../inc/extras.php:362
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgstr ""
+"Συγγνώμη, αλλά δεν έχετε τα κατάλληλα δικαιώματα για την ενεργοποίηση του%s "
+"πρόσθετου. Επικοινωνήστε με το διαχειριστή αυτού του site για βοήθεια ώστε "
+"να ενεργοποιήσετε το πρόσθετο."
+
+#: ../inc/extras.php:364
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgstr ""
+"Συγγνώμη, αλλά δεν έχετε τα κατάλληλα δικαιώματα για την αναβάθμιση του%s "
+"πρόσθετου. Επικοινωνήστε με το διαχειριστή αυτού του site για βοήθεια ώστε "
+"να αναβαθμίσετε το πρόσθετο."
+
+#: ../inc/extras.php:369
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Όλα τα πρόσθετα εγκατασταθήκαν και ενεργοποιήθηκαν επιτυχώς. %s"
+
+#: ../inc/extras.php:407
+msgid "View your shopping cart"
+msgstr "Δείτε το καλάθι αγορών σας"
+
+#: ../inc/extras.php:408
+msgid "Start shopping"
+msgstr "Ξεκινήστε τις αγορές σας"
+
+#: ../inc/extras.php:412
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d προϊόν"
+msgstr[1] "%d προϊόντα"
+
+#: ../inc/metaboxes.php:16
+msgid ""
+"Select layout for this specific Page only ( Note: This setting only reflects "
+"if page Template is set as Default Template and Blog Type Templates.)"
+msgstr ""
+"Επιλογή διάταξης για αυτή τη συγκεκριμένη σελίδα μόνο (Σημείωση: η ρύθμιση "
+"αυτή αντανακλά μόνο εάν η σελίδα πρότυπο έχει οριστεί ως το προεπιλεγμένο "
+"πρότυπο και πρότυπα τύπου Blog.)"
+
+#: ../inc/metaboxes.php:21
+msgid "Select layout for this specific Post only"
+msgstr "Επιλογή διάταξης για τη συγκεκριμένη δημοσίευση μόνο"
+
+#: ../inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Πλοήγηση δημοσιεύσεων"
+
+#: ../inc/template-tags.php:27
+msgid "<i class=\"fa fa-chevron-left\"></i> Older posts"
+msgstr "<i class=\"fa fa-chevron-left\"></i> παλαιώτερες δημοσιεύσεις"
+
+#: ../inc/template-tags.php:31
+msgid "Newer posts <i class=\"fa fa-chevron-right\"></i>"
+msgstr "Νεώτερες δημοσιεύσεις <i class=\"fa fa-chevron-right\"></i>"
+
+#: ../inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Πλοήγηση δημοσιεύσεων"
+
+#: ../inc/template-tags.php:81
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: ../inc/template-tags.php:91
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">says:</span>"
+
+#: ../inc/template-tags.php:104
+msgid "Your comment is awaiting moderation."
+msgstr "Το σχόλιο σας παραμένει προς έγκριση"
+
+#: ../inc/widgets/popular-posts-widget.php:13
+msgid "Displays tabbed list of popular posts, recent posts & comments"
+msgstr ""
+"Εμφανίζει καρτέλες με λίστες δημοφιλών άρθρων, πρόσφατων άρθρων & σχολίων"
+
+#: ../inc/widgets/popular-posts-widget.php:19
+msgid "Unite: Popular Posts Widget"
+msgstr "Unite: Μικροεφαρμογή δημοφιλών άρθρων"
+
+#: ../inc/widgets/popular-posts-widget.php:37
+msgid "Popular"
+msgstr "Δημοφιλή"
+
+#: ../inc/widgets/popular-posts-widget.php:38
+msgid "Recent"
+msgstr "Πρόσφατα"
+
+#: ../inc/widgets/popular-posts-widget.php:105
+msgid "Anonymous"
+msgstr "Ανώνυμος"
+
+#: ../inc/widgets/popular-posts-widget.php:105
+msgid "on"
+msgstr "στις"
+
+#: ../inc/widgets/popular-posts-widget.php:149
+msgid "Number of posts to show"
+msgstr "Αριθμός δημοσιεύσεων προς εμφάνιση"
+
+#: ../search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Αποτελέσματα αναζήτησης για: %s"
+
+#: ../searchform.php:9
+msgid "Search for:"
+msgstr "Αναζήτηση για:"
+
+#: ../searchform.php:11
+msgid "Search..."
+msgstr "Αναζήτηση..."
+
+#: ../sidebar.php:17
+msgid "Archives"
+msgstr "Αρχεία"
+
+#: ../sidebar.php:24
+msgid "Meta"
+msgstr "Μεταδεδομένα"
